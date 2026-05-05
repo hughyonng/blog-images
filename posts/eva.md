@@ -3,7 +3,7 @@ title: 从《斗破苍穹》到《EVA》：一面镜子，两代人的精神困�
 date: '2026-05-04'
 description: ''
 coverImage: >-
-  https://raw.githubusercontent.com/hughyonng/blog-images/main/images/2026-05-04-24uxow.png
+  https://raw.githubusercontent.com/hughyonng/blog-images/main/images/avatar-mos8c2kn-40sx22.png
 order: 2
 series: EVA
 ---
